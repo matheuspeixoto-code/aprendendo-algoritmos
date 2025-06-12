@@ -7,5 +7,5 @@ Este repositório contém os algoritmos que estou estudando e implementando dura
 
 ## Tópicos abordados
 - Busca binária
-- Algoritmos de ordenação
-
+- SortedSimples
+- QuickSort
